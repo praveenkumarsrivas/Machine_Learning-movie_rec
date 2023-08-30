@@ -3,18 +3,19 @@
 
 ### There are 4 sections in this project to showcase the recomendations
 1. Reseult Based on search.
-![Alt text](image.png)
+![Alt text](readmdasset/image.png)
 2. Result based on similarity.
-![Alt text](image-1.png)
+![Alt text](readmdasset/image-1.png)
 3. Result based on User watch history (Known as FOR YOU section).
-![Alt text](image-2.png)
+![Alt text](readmdasset/image-2.png)
 4. Top trending based on Tiltle among Populations watch.
-![Alt text](image-3.png)
+![Alt text](readmdasset/image-3.png)
 5. Top trending based on Genre among population watch.
-![Alt text](image-4.png)
+![Alt text](readmdasset/image-4.png)
 
-# This is the Demo page: ![Demo page view link](https://movierecgit-gtzdpvpweeynvj93ugjsn7.streamlit.app/)
-![Alt text](screencapture-movierecgit-gtzdpvpweeynvj93ugjsn7-streamlit-app-2023-08-30-14_41_18.png)
+# This is the Demo page: !
+### [Demo page view link](https://movierecgit-gtzdpvpweeynvj93ugjsn7.streamlit.app/)
+![Alt text](readmdasset/screencapture-movierecgit-gtzdpvpweeynvj93ugjsn7-streamlit-app-2023-08-30-14_41_18.png)
 
 
 # Take this project:
