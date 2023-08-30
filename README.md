@@ -23,7 +23,7 @@
  ### pip3 install streamlit or pip install streamlit
 
 ## 2. Run the app
- ### streamlit run new_app.py
+ ### streamlit run main_app.py
 
 # Boom Go! you are up!!!! 
 
