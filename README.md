@@ -8,9 +8,9 @@
 ![Alt text](readmdasset/image-1.png)
 3. Result based on User watch history (Known as FOR YOU section).
 ![Alt text](readmdasset/image-2.png)
-4. Top trending based on Tiltle among Populations watch.
+4. Top trending based on Genre among Populations watch.
 ![Alt text](readmdasset/image-3.png)
-5. Top trending based on Genre among population watch.
+5. Top trending based on Title among population watch.
 ![Alt text](readmdasset/image-4.png)
 
 # This is the Demo page: !
