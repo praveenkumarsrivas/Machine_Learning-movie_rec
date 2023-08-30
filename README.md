@@ -14,7 +14,7 @@
 ![Alt text](readmdasset/image-4.png)
 
 # This is the Demo page: !
-### [visit website](https://movierecgit-gtzdpvpweeynvj93ugjsn7.streamlit.app/)
+### [visit website](https://mov-rec.streamlit.app/)
 ![Alt text](readmdasset/screencapture-movierecgit-gtzdpvpweeynvj93ugjsn7-streamlit-app-2023-08-30-14_41_18.png)
 
 
